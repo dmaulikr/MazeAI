@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6454D0CA-D824-45C7-BA5A-84EA3D9AC61E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MazeAI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F2D1F3DA5C8A8764BA0F4D4AD265A6AC61EC3D0D</key>
+		<string>github.com:henry-west/MazeAI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MazeAI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F2D1F3DA5C8A8764BA0F4D4AD265A6AC61EC3D0D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:henry-west/MazeAI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2D1F3DA5C8A8764BA0F4D4AD265A6AC61EC3D0D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2D1F3DA5C8A8764BA0F4D4AD265A6AC61EC3D0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MazeAI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
